@@ -3,6 +3,11 @@
 ## main.tf
 with this file we created the ec2 instance on aws . We created ec2 instance and we also created subnet and security group. Image such as terraform complete.mp4, terraform ec2 instance.png and terraform discover.mp4 are showing the same thing.
 
+![terraform creation](https://github.com/ehteshamtarq/discoverdollar-assessment/assets/72429244/ca82c213-10c3-4f6d-aa04-0654145c4446)
+instance after creation
+![terraform ec2 instance](https://github.com/ehteshamtarq/discoverdollar-assessment/assets/72429244/c1b9d562-8d34-4fe0-8762-da5c5de5acf7)
+
+
 ## we created a dockerfile and then we created an image from it which is upload on dockerhub we pushed it in docker hub
 
 ![dockerhub](https://github.com/ehteshamtarq/discoverdollar-assessment/assets/72429244/e5772edc-5e81-4d93-8d36-2a67ef8b4b1f)
