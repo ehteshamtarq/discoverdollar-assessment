@@ -10,9 +10,17 @@ instance after creation
 
 ## we created a dockerfile and then we created an image from it which is upload on dockerhub we pushed it in docker hub
 
-![dockerhub](https://github.com/ehteshamtarq/discoverdollar-assessment/assets/72429244/e5772edc-5e81-4d93-8d36-2a67ef8b4b1f)
+### Docker image  build
+![docker image creation from dockerfile](https://github.com/ehteshamtarq/discoverdollar-assessment/assets/72429244/9e0e02c8-bfc5-4daa-889a-2a51b0dbc1ca)
 
-### we created a RDS database on aws
+### Docker image pushed to dockerhub
+![pushed image to dockerhub](https://github.com/ehteshamtarq/discoverdollar-assessment/assets/72429244/0236ca6e-f5ff-4efb-9872-4e485b53d724)
+
+## Dockerhub 
+![dockerhub](https://github.com/ehteshamtarq/discoverdollar-assessment/assets/72429244/840355bf-5894-474b-befc-70cdf6b11c5b)
+
+
+## we created a RDS database on aws
 
 
 ![image](https://github.com/ehteshamtarq/discoverdollar-assessment/assets/72429244/962a7682-2710-46ab-9f42-e13072f7e96f)
